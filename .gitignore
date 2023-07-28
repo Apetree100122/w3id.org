@@ -1,5 +1,1 @@
-*.sw[nop]
-*.py[co]
-*~
-*.Rproj.user
-*.Rproj
+*.sw[nop]*.py[co*~*.Rproj.user*.Rproj
