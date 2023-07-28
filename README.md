@@ -1,5 +1,8 @@
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7679/badge)](https://bestpractices.coreinfrastructure.org/projects/7679)
 
+Project badge entry owned by: Alexander Petree.
+Entry created on 2023-07-28 21:29:29 UTC, last updated on 2023-07-28 22:18:14 UTC. Last achieved passing badge on 2023-07-28 21:44:54 UTC.
+
 
 Permanent Identifiers
 for the Web
