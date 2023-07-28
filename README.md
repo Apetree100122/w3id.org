@@ -1,3 +1,6 @@
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7679/badge)](https://bestpractices.coreinfrastructure.org/projects/7679)
+
+
 Permanent Identifiers
 for the Web
 =
